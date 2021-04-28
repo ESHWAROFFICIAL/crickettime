@@ -1,0 +1,160 @@
+<head>
+ 
+  <link href="https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC&display=swap" rel="stylesheet">
+  <!-- Selecting a font was one of the more difficult stylistic choices, compared to choosing colors, because there are SO many and the differences are subtle. I settled on this font, but ended up only using it for my heading 2, as I actually preferred the h1 in the default, which I think created a coherence with the text information about my the coffee. On the other hand, I also really liked having the h2 with the more pretentious font, as it lended to that pretentious feel that I think suits coffee, lending a more elegant feel to the page, however subtly. -->
+
+</head>
+
+<hr>
+  <h1 class="h1">Coffee</h1>
+<hr>
+
+<div id="header">
+ <img class="image" src="https://images.squarespace-cdn.com/content/v1/56bbd148f699bb7b83a697fc/1559940653799-ETZBHTHJ9LKTCC0DW8Y6/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/DSCF6820.jpg" alt="Coffee with latte art heart"> 
+
+ <img class="image" src="http://pinnaclehealthradio.org/wp-content/uploads/2018/03/coffee.jpg" alt="Black coffee up close">
+
+  <img class="image" src="https://cdn.vox-cdn.com/thumbor/s7QI3y1Sr9jmTCZmG8FdRjIJNnU=/0x0:2975x1844/920x613/filters:focal(1143x759:1619x1235):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65478200/71592549_575148076455582_8595250883353741165_n.0.jpg" alt="3 paper cup lattes">
+</div>
+
+<hr>
+<h2 align="center"> The Origin Story </h2>
+
+  <hr>
+<p> Where did the story of coffee begin? Coffee is beloved in countries all over the world. It is powerful, strong, versatile, and yes,  <em>addicting</em>. There are thousands of variations of the beverage, and thousands more specialty shops and cafes.</p>
+<p>The earliest reference to what is commonly known as <em>coffee</em> today is from the 15th century in Yemen. Coffee seeds were roasted and brewed into a liquid drunk to help Sufi cirlces stay awake during religious ceremonies. Anything earlier than this has conflicting narratives, but possibilities include trade from Ethiopia or the Arabian peninsula. You can discover more on the earliest origin theories <a href="https://www.theatlantic.com/health/archive/2010/08/coffees-mysterious-origins/61054/" target="blank">here</a>. Europeans who traveled to the East began to bring back tales of a bitter black beverage. By the 17th century, it had been imported into Europe, but was viewed with much fear that it was from Satan. The pope was asked to settle it once and for all, and decided to try it himself before making a decision. The pope found it so satisfying, that he granted his stamp of approval. </p>
+
+<p>Coffee shops began to spring up all over Europe and soon the world, at an alarming rate that almost rivals modern times. These shops were called 'penny universities' because you could get a cup of coffee and stimulaitng conversation for just a penny. Those were the good times. People began to replace beer and wine as their morning beverage with coffee, because it helped them begin their day bright and alert, as well as promoted productivity in their work. This tradition continues on today, because honestly, who doesn't love a good morning cup of jo? Actually, a few people come to mind but I like to think they don't count.</p>
+
+<p> With coffee's popularity came more and more experimentation, beginning with dashes of milk and sugar as was performed on tea on to the Dalgona coffee that is trending on social media today. The amount of roasting of the coffee bean was also experimented with and discovered to produce different tastes. Styled coffees are traditionally each given their own name (often with Latin phonetics) so that the drinker can differentiate and order exactly what they want. Some common types include: </p>
+
+<ul>
+  <li>Caffe Americano</li>
+  <li>Caffe Latte</li>
+  <li>Cappucino</li>
+  <li>Espresso</li>
+  <li>Flat White</li>
+  <li>Macchiato</li>
+  <li>Mochaccino</li>
+  <li>Irish Coffee</li>
+  <li>Vienna</li>
+  <li>Affogato</li>
+</ul>
+
+<p>There are a thousand more in existence, plus a thousand more, plus a thousand more variations to those in existence, so I have taken the liberty of listing some of my personal favorites from within some of those most popular in the modern day. I apologize if your favorites did not make the list; believe me, I probably enjoy it your way too!</p>
+
+<p> While the stimulative component of coffee does create dependency and cravings that can cause serious addiction (full disclousre: I believe it is too late for me, I am beyond saving), research proves that there are also multiple health benefits to drinking coffee. For an introduction to the subject of coffee and health, click the image &#8675 below &#8675</p>
+
+<hr>
+<div class="footer">
+  <a href="https://blackandbrew.com/health-benefits-of-coffee-based-on-facts-not-our-biased-opinion/" target="blank">
+<img class="footerpic" src="https://blackandbrew.com/wp-content/uploads/2019/05/5-23-19_HealthBenefitsOfCoffee_IG.png" alt="Black coffee on saucer and coffee beans in scoop">
+</a>
+</div>
+<hr>
+
+<p>
+  Personally, coffee is my life saver. When I'm stressed (<em>hello finals week</em>), just a sniff of coffee will relax me. When I'm tired but have 7 more pages to go, coffee will energize me. When I'm jittery the morning of tournaments, coffee grounds me and reminds me that this is just another day. Hey, even when I'm on a diet, coffee quells my boredom-hunger. I must confess that I have been consuming coffee at an alarming rate since I was still in my single digits, to the point that I've developed strong preferences and tolerance levels. Coffee is my  friend that in these changing times stays constant. I kickstart my everyday with a steaming cup of straight black and I wouldn't feel right without it. </p>
+<h3 align="right"> Leah Onosato </h3>
+
+
+
+html
+
+
+
+.h1 {
+  color: #1E1309;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #91806E;
+  border-style: double;
+  border-color: #1E1309;
+  
+}
+
+.image {
+  display: inline-block;
+  width: 300px;
+  height: 200px;
+  padding: 0px 7px 0px 7px;
+  /* It actually took me a really long time to figure out how to align my images in a horizontal group that was centered within the entire page. I tried using the float CSS and some other things that I don't actually really remember anymore, but it never seemed to work. I researched and googled several times before I realized I had simply mis-written my display: inline-block block when I had first used it. I'm simply glad I figured it out in the end. */
+}
+
+h2 {
+  font-family: 'IM Fell French Canon SC', serif;
+  color: #1E1309;
+background-color: #91806E;
+  border-style: double;
+  border-color: #1E1309;
+  /*After making the background color this gentle craft color to play up on the connection with taditionally-some-variant-of-brown-coffee, I found the elemnt to be missing something, and thought: Ah, a border would really help it look more professional. I tried several different border styles such as dotted, dashed, etc, but really liked the effect that the double-border created. I think it lends to the elegant, pretentious feel that I think goes well with coffee and the font that I chose for my h2.*/
+}
+
+body {
+  background-color: rgb(0,128,128, 0.95);
+  /*I decided to very subtly soften  the background color by siginifying a 95% transparency. 100% of my teal color was too strong and dark, though I liked the hue. I began with changing the transparency to I believe 75%, but it lost a lot of its punch and bright, inviting feel. I slowly amped up the percentage and to my surprise, found I liked the very subtle difference of 95%.*/
+}
+
+#header {
+  text-align: center;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+
+p {
+  margin-left: 35px;
+  text-indent: 5%;
+  line-height: 1.5;
+}
+
+ul {
+  margin-left: 60px;
+  color: rgba(360,360,300, 0.7);
+}
+
+.footer {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footerpic {
+  width:200px;
+  height:200px;
+  
+ 
+}
+
+a {
+  color: rgba(360,360,300, 0.7);
+  
+}
+
+a:hover {
+  color: white;
+}
+/*
+a:visited {
+  color:black;
+}*/
+
+h3 {
+  padding:0px 30px 0px 0px;
+  color:#1E1309;
+  background-color:#91806E;
+  border-style:double;
+  border-color:#1E1309;
+  font-family: 'IM Fell French Canon SC', serif;
+  font-size: 20px;
+}
+
+
+css
