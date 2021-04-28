@@ -1,0 +1,62 @@
+<h1> About Roblox! </h1>
+<img src=https://www.bing.com/th?id=OIP.e9DGpvmtwRjXsNekWlbiJQHaEK&w=176&h=100&c=8&rs=1&qlt=90&dpr=1.38&pid=3.1&rm=2> <br>
+<p1> Roblox, Is a powering imagination game, where you can dress up, and create anything you imagine, wanna check it out? then, <a href=https://roblox.com> Here you go!</a> </p1> <br>
+<br> <h2> What can you do in roblox? </h2> 
+<p2>So, In roblox, You can create online friends, chat with them and also, create with them, Oh.. I forgot, you wanna know how to create.. huh? Then give me a second!</p2>
+
+<h3> How to create! </h3>
+<p3>So, you'll have to download Roblox Studio for this.., after you do, select a game type....
+Then, You can start creating, On the top corner, you'll see something known as "Parts" click that, you will get a small brick part... Which you can scale! now make a obstacle, and make people win to get some stuff!</p3>
+
+<h4> Is that all you can do in roblox? </h4>
+<p4> Totally NOT!, you can buy in-game purchasments and get something called "Robux" With that you make your self look cooler, and better than someone else, Not only that, Roblox won the 2018 Mobile Game Of The Year!
+  I Hope you enjoy roblox after installing it, and thats it! </p4>
+  
+  
+  html
+  
+  
+  
+  h1:hover{
+  cursor:pointer;
+  animation:mymove 5s infinite;
+}
+@keyframes mymove{
+  from{color:crimson;}
+  to{color:dodgerblue;
+  font-size:300%;}
+}
+img{
+  width:50%;
+  border-radius:10px;
+}
+p1{
+  font-size:180%;
+}
+h2{
+  font-size:180%;
+}
+p2{
+  font-size:150%;
+}
+h3{
+  font-size:180%;
+}
+p3{
+  font-size:150%;
+}
+h4{
+  font-size:180%;
+}
+p4{
+  font-size:150%;
+}
+img:hover{
+  cursor:pointer;
+  transform:scale(1.02);
+  box-shadow: 0px 0px 5px 5px crimson; 
+  
+  body{}
+  
+  
+ css
